@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @bernard-wilian
+- 👀 I’m interested in software development, building web and mobile apps, and creating innovative solutions for personal and professional productivity.
+- 🌱 I’m currently learning Flutter for app development, focusing on meditation, health, fitness, and personal finance tracking apps.
+- 💼 I'm experienced in software development, website creation, and responsive design, with a strong background in SEO and user experience.
+- 💞️ I’m looking to collaborate on projects that involve health tech, fitness apps, productivity tools, and business automation.
+- 📫 How to reach me: bernadwilian@gmail.com or via LinkedIn.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a passion for exploring new tech tools and frameworks, and I enjoy challenging myself with personal fitness goals and outdoor adventures.
